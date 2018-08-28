@@ -5464,6 +5464,7 @@
 - Dipti Butola
 - [James Jung](https://github.com/thejcode24)
 - [ghostgost](https://github.com/ghostgost)
+- [Tanya Upadhyay](https://github.com/tanya1812)
 - [spooti](https://github.com/spooti)
 - [David Harris](https://github.com/dahveed15)
 - [Raufoon](https://github.com/Raufoon)
